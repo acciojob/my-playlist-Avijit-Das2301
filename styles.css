@@ -33,7 +33,7 @@ h1, h2 {
 }
 
 .playlist-box a {
-	text-decoration: underline;
+	text-decoration: none;
 	color: #6666ff;
 }
 
